@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import './Project.css'; 
+import './project.css'; 
 
 const Project = ({ title, image, link, repo }) => {
   return (
