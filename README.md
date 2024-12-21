@@ -28,7 +28,7 @@ The application is a single-page application (SPA) leveraging **React Router** f
    ```
 2. Navigate to the project directory:
    ```bash
-   cd react-portfolio
+   cd ReactPortfolio
    ```
 3. Install dependencies:
    ```bash
