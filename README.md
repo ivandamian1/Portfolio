@@ -41,7 +41,7 @@ The application is a single-page application (SPA) leveraging **React Router** f
 5. Open the application in your browser at the URL provided by Vite.
 
 ## Deployment
-This application is deployed on **Netlify**. Visit the live site at: [Your Netlify URL](https://ivandeveloperportfolio.netlify.app/)
+This application is deployed on **Netlify**. Visit the live site at: [Portfolio](https://ivandeveloperportfolio.netlify.app/)
 
 ## Usage
 1. Navigate between sections using the header navigation.
